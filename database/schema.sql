@@ -5,3 +5,4 @@ CREATE TABLE notebook (
     person_name varchar(255),
     task varchar(255)
 );
+
